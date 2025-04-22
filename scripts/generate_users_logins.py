@@ -1,7 +1,9 @@
+# This script generates 1K users and 10K logins, saving them to CSV files.
+
 import pandas as pd
 import numpy as np
 
-dates = pd.date_range("2025-03-01", "2025-03-31", freq="H")
+dates = pd.date_range("2025-03-01", "2025-03-31", freq="h")
 regions = ["Lagos", "Nairobi", "Cape Town"]
 
 # Users (1K)
@@ -24,4 +26,3 @@ logins_df = pd.DataFrame(logins_data, columns=["user_id", "timestamp", "login_st
 logins_df.to_csv("data/logins.csv", index=False)
 
 print("Generated 1K users and 10K logins")
-# This script generates 1K users and 10K logins, saving them to CSV files.
