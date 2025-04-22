@@ -82,7 +82,7 @@ This project delivers an ML pipeline to:
 
 ## 📥 Full Project Assets
 - [🧠 Jupyter Notebook](notebook/fraud_detection_model.ipynb)  
-- [📊 Report Slides (PPTX)](Report.pptx)  
+- [📊 Report and Recommendations](visuals/Report)
 
 ---
 
