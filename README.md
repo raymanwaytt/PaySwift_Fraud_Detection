@@ -49,7 +49,7 @@ This project delivers an ML pipeline to:
 
 ---
 
-## 🧪 Results
+## Results
 
 | Metric              | Value              |
 |---------------------|--------------------|
@@ -62,7 +62,7 @@ This project delivers an ML pipeline to:
 
 ---
 
-## 💰 Business Impact
+## Business Impact
 
 - **Fraud Prevented**: ₦8.21M saved (216 × ₦38K)  
 - **Ops Cost (FPs)**: ₦1.725M (345 × ₦5K)  
@@ -81,8 +81,8 @@ This project delivers an ML pipeline to:
 ---
 
 ## 📥 Full Project Assets
-- [🧠 Jupyter Notebook](notebook/fraud_detection_model.ipynb)  
-- [📊 Report and Recommendations](Report and Recommendation.md)
+- [Jupyter Notebook](notebook/fraud_detection_model.ipynb)  
+- [📊 Report and Recommendations](Report_and_Recommendation.md)
 
 ---
 
